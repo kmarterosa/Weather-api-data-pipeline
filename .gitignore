@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+**/.env
+
+# PostgreSQL volume data
+postgres/data/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# User's ID log
+dbt/.user.yml
