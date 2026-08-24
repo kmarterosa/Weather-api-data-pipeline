@@ -20,3 +20,6 @@ postgres/data/
 
 # User's ID log
 dbt/.user.yml
+
+# API keys
+api-request/creds.py
